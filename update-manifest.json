@@ -1,7 +1,7 @@
 {
-  "size": 632494747,
-  "sha256": "4d8a13d3cd6b2b8fc1a2bacc07e10600c661bdebfd144a6c713e22587541f13d",
-  "notes": "MeetingAssistant 1.1.7",
-  "version": "1.1.7",
-  "url": "https://github.com/xiaoshanshi017-bot/MeetingAssistant-Releases/releases/download/v1.1.7/MeetingAssistant-Windows-x64-Offline.zip"
+  "size": 632495609,
+  "url": "https://github.com/xiaoshanshi017-bot/MeetingAssistant-Releases/releases/download/v1.1.8/MeetingAssistant-Windows-x64-Offline.zip",
+  "notes": "MeetingAssistant 1.1.8",
+  "version": "1.1.8",
+  "sha256": "5afc35840a8bf76cbc12289e8c057a6476ae39693f15dd9c3da7cef6972c44c5"
 }
