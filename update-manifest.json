@@ -1,7 +1,7 @@
 {
-  "version": "1.1.4",
-  "notes": "v1.1.4 长时间会议稳定性升级：录制后台初始化；音频设备断开自动重连并补齐时间轴；PPT与录像共享画面捕获；窗口尺寸变化等比例适配；4K OCR降采样；音频与碎片MP4抗崩溃刷新；会议中断恢复提示；更新流自动续传、文件占用重试及缓存/旧备份清理。",
-  "url": "https://github.com/xiaoshanshi017-bot/MeetingAssistant-Releases/releases/download/v1.1.4/MeetingAssistant-Windows-x64-Offline.zip",
-  "sha256": "3689e40673fcbc0f34d8efbf94b734d07fe9e636303e4f973aaedf852ba7f9e4",
-  "size": 632470136
+  "notes": "MeetingAssistant 1.1.5",
+  "size": 632478335,
+  "sha256": "33471c80d558a81e200ad430088439022ac4405abcbdad95b11ba8293bf58a3c",
+  "url": "https://github.com/xiaoshanshi017-bot/MeetingAssistant-Releases/releases/download/v1.1.5/MeetingAssistant-Windows-x64-Offline.zip",
+  "version": "1.1.5"
 }
