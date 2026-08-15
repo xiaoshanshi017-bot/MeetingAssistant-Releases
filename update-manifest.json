@@ -1,7 +1,7 @@
 {
-  "size": 632495609,
-  "url": "https://github.com/xiaoshanshi017-bot/MeetingAssistant-Releases/releases/download/v1.1.8/MeetingAssistant-Windows-x64-Offline.zip",
-  "notes": "MeetingAssistant 1.1.8",
-  "version": "1.1.8",
-  "sha256": "5afc35840a8bf76cbc12289e8c057a6476ae39693f15dd9c3da7cef6972c44c5"
+  "url": "https://github.com/xiaoshanshi017-bot/MeetingAssistant-Releases/releases/download/v1.2.0/MeetingAssistant-Windows-x64-Offline.zip",
+  "notes": "v1.2.0：新增边录边生成实时文字与阶段摘要；旧会议后台断点续转；媒体保存后可立即开始下一场录像；启动自动恢复未完成任务；新增实时工作区与后台任务视图；修复实时/正式稿交界重复、更新安装与前台录制并发安全。",
+  "version": "1.2.0",
+  "size": 632556363,
+  "sha256": "45bdb04bef8e82846a610cd3534f3a260ad17bd79cf3ee8dd788a216451dc9e1"
 }
