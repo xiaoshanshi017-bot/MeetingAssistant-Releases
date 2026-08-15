@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/xiaoshanshi017-bot/MeetingAssistant-Releases/releases/download/v1.2.0/MeetingAssistant-Windows-x64-Offline.zip",
-  "notes": "v1.2.0：新增边录边生成实时文字与阶段摘要；旧会议后台断点续转；媒体保存后可立即开始下一场录像；启动自动恢复未完成任务；新增实时工作区与后台任务视图；修复实时/正式稿交界重复、更新安装与前台录制并发安全。",
-  "version": "1.2.0",
-  "size": 632556363,
-  "sha256": "45bdb04bef8e82846a610cd3534f3a260ad17bd79cf3ee8dd788a216451dc9e1"
+  "version": "1.3.0",
+  "notes": "v1.3.0：新增每台电脑500分钟本地免费额度、账号登录/注册/充值码/管理员赠时与离线签名租约；会议音视频和文字继续仅保存在本机。后台任务支持继续、停止、重试、优先级和并行录制，长录音分段转换与实时草稿/摘要更稳。新增蓝底白勾、全新应用图标和账户中心；修复重复扣费、断网重试、媒体替换、窗口录制重连及更新安全问题。",
+  "size": 643726798,
+  "sha256": "40ec058b07ea7e86b035e13cfdb7a2c10e4af5adc67ea94da9cb5a687a0235ba",
+  "url": "https://github.com/xiaoshanshi017-bot/MeetingAssistant-Releases/releases/download/v1.3.0/MeetingAssistant-Windows-x64-Offline.zip"
 }
