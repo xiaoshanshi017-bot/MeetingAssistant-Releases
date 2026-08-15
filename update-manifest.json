@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/xiaoshanshi017-bot/MeetingAssistant-Releases/releases/download/v1.1.6/MeetingAssistant-Windows-x64-Offline.zip",
-  "version": "1.1.6",
-  "size": 632482177,
-  "notes": "MeetingAssistant 1.1.6",
-  "sha256": "ad87125a12c40ea96ac37f6a740ee8a00eada646024b37a0e1c4a9ba8eb6bed9"
+  "size": 632494747,
+  "sha256": "4d8a13d3cd6b2b8fc1a2bacc07e10600c661bdebfd144a6c713e22587541f13d",
+  "notes": "MeetingAssistant 1.1.7",
+  "version": "1.1.7",
+  "url": "https://github.com/xiaoshanshi017-bot/MeetingAssistant-Releases/releases/download/v1.1.7/MeetingAssistant-Windows-x64-Offline.zip"
 }
