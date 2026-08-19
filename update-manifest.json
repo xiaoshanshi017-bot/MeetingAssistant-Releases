@@ -1,7 +1,7 @@
 {
-  "version": "1.3.3",
-  "size": 643728262,
-  "sha256": "ea1313a72c78488e0215956a028869fafeb2b38e9b3d8181b294a7b76a9c544d",
-  "notes": "v1.3.3 正式版\n\n- 支持边录边转写与实时草稿，停止后自动生成完整会议纪要\n- 旧会议可在后台继续翻译、重试和调整优先级，同时继续录制新会议\n- 优化窗口/显示器录像、页面切换恢复和首帧诊断\n- H.264 编码器在共同起录前完成真实初始化；慢电脑首启可等待，失败后安全回收\n- 若底层编码器仍卡住，会阻止重复录像线程并提示重启，避免资源持续累积\n- 内置离线 Whisper、OCR、SRT/VTT 字幕和本地会议纪要\n- 全新界面、应用图标与清晰的蓝底白勾选择控件\n- 每台设备可免费使用 500 分钟；支持账号登录、充值码和管理员赠送时长\n- 支持 GitHub 在线检查、分段下载、SHA-256 校验和升级\n- 音视频、转写、OCR 和纪要默认只保存在本机，服务器仅处理账号与使用时长",
-  "url": "https://github.com/xiaoshanshi017-bot/MeetingAssistant-Releases/releases/download/v1.3.3/MeetingAssistant-Windows-x64-Offline.zip"
+  "url": "https://github.com/xiaoshanshi017-bot/MeetingAssistant-Releases/releases/download/v1.3.5/MeetingAssistant-Windows-x64-Offline.zip",
+  "notes": "MeetingAssistant 1.3.5\n\n- 电脑声音与麦克风支持单端、双端同时录制及有声端自动处理\n- 保留双端原始音轨并生成混合录音，弱音轨不再被静音门限丢弃\n- 在线更新明确区分有新版、版本相同和服务器清单落后三种状态\n- 更新清单绕过旧缓存，并增强下载校验、自检、安装回滚与发布验证",
+  "version": "1.3.5",
+  "sha256": "fef52c1861dfb089e644dda717bd5e7d4283807e82deb7f166a2457dfa321646",
+  "size": 643781861
 }
